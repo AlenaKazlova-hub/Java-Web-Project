@@ -1,4 +1,4 @@
-Java-Web-Project - The Bank List
+Java-Web-Project - "The Bank List"
 
 A UserBankList application that can output parameters from the database technologies: 
 
